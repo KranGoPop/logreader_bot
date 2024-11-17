@@ -1,0 +1,13 @@
+{
+    "clients": [],
+    "telegram": {
+        "token": ""
+    },
+    "logs": [
+        {
+            "id": "",
+            "log_path": "",
+            "bot_name": ""
+        }
+    ]
+}

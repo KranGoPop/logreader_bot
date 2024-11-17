@@ -1,0 +1,7 @@
+config.json
+offset.json
+archive/*
+log/*
+**/__pycache__/**
+.git/
+tmp.jsonl
